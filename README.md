@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a back-end developer who believes in the power of positivity and perseverance.I have always had willingness to learn and i do it as well as solving difficult problems. I will always be glad to<br>share my knowledge, with everyone who has the desire to get it. And get<br>knowledge of those who want to share with me.
+I'm a back-end developer who believes in the power of positivity and perseverance.I have always had willingness to learn and i do it as well as solving difficult problems. I will always be glad to share my knowledge, with everyone who has the desire to get it. And get<br>knowledge of those who want to share with me.
 
 
 ## 🌐 Socials:
